@@ -133,7 +133,7 @@ This approach preserves a consistent principle across the analysis:
 |---|---:|---|---|
 | San Diego Padres | $3.90B | Published / Transaction-Based Value | High |
 | San Diego FC | $765M | Published Value | High |
-| San Diego Wave FC | $225M | Published Value | High |
+| San Diego Wave FC | $225M | Published Value | Medium |
 | San Diego Seals | $34.8M | Modeled Gate-Receipts Valuation | Low |
 | San Diego Sockers | ~$31.0M | Modeled Gate-Receipts Valuation | Low |
 | San Diego Mojo | ~$17.0M | Modeled Valuation with League Benchmark Validation | Low |
