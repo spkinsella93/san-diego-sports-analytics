@@ -63,3 +63,88 @@ Where reported average ticket price was unavailable, ATP was estimated using the
 A standardized 25% downward adjustment was applied to account for season-ticket member preferred pricing and the estimated distribution of venue inventory across pricing tiers.
 
 Premium hospitality, suites, resale inventory, and promotional pricing were excluded where identifiable.
+
+## Franchise Valuation
+
+Franchise valuation presented the largest methodological challenge in the analysis because public valuation data varies substantially across leagues.
+
+Where credible published valuations or transaction-based values were available, those figures were used directly. Where they were unavailable, valuation methods were selected based on the operating model and available market evidence for each team.
+
+The analysis therefore uses three valuation paths rather than applying a single methodology across all nine organizations.
+
+### 1. Published or Observed Market Values
+
+Published or transaction-based valuations were used where credible market evidence was available:
+
+- San Diego Padres
+- San Diego FC
+- San Diego Wave FC
+
+These values also provided a basis for evaluating the relationship between franchise value and estimated gate receipts within the San Diego market.
+
+### 2. Gate-Receipts Valuation Model
+
+For independent professional teams without published valuations, a standardized San Diego market multiple was developed using teams for which credible franchise values were available.
+
+The model is calculated as:
+
+**Franchise Value-to-Gate-Receipts Multiple = Franchise Value ÷ Estimated Regular-Season Gate Receipts**
+
+The resulting multiples for the three benchmark teams were:
+
+| Team | Franchise Value / Gate Receipts Multiple |
+|---|---:|
+| San Diego Padres | 23.70× |
+| San Diego FC | 27.75× |
+| San Diego Wave FC | 26.64× |
+| **Average** | **26.03×** |
+
+The standard modeled valuation is therefore:
+
+**Estimated Franchise Value = Estimated Regular-Season Gate Receipts × 26.03**
+
+This multiple is referred to throughout the analysis as the **San Diego Franchise Value / Gate Receipts Multiple**.
+
+It should not be interpreted as a revenue multiple. Estimated gate receipts represent only a standardized proxy for direct regular-season ticket spending and exclude sponsorship, media rights, concessions, merchandise, premium hospitality, and other revenue streams.
+
+This approach was used where the team's operating model was sufficiently comparable for gate receipts to provide a meaningful valuation input.
+
+### 3. Comparable-Market Valuation
+
+During model development, the gate-receipts methodology produced implausible results for several developmental, affiliate, or lower-tier organizations.
+
+Rather than introducing arbitrary league-specific discounts to force those outputs into an expected range, the methodology was changed for these teams.
+
+Comparable-market approaches were used for:
+
+- San Diego Gulls
+- San Diego Clippers
+- San Diego Strike Force
+
+Depending on the available evidence, these estimates incorporate comparable franchise transactions or market values, inflation adjustments, attendance differences, and observable changes in league scale.
+
+This approach preserves a consistent principle across the analysis:
+
+> **Use observable market evidence when available, model only where necessary, and avoid adding unsupported adjustments solely to produce a more intuitive result.**
+
+## Team-Level Valuation Methods
+
+| Team | Selected Franchise Value | Valuation Approach | Confidence |
+|---|---:|---|---|
+| San Diego Padres | $3.90B | Published / Transaction-Based Value | High |
+| San Diego FC | $765M | Published Value | High |
+| San Diego Wave FC | $225M | Published Value | High |
+| San Diego Seals | $34.8M | Modeled Gate-Receipts Valuation | Low |
+| San Diego Sockers | ~$31.0M | Modeled Gate-Receipts Valuation | Low |
+| San Diego Mojo | ~$17.0M | Modeled Valuation with League Benchmark Validation | Low |
+| San Diego Gulls | ~$17.6M | Inflation + Attendance Adjusted Comparable | Low |
+| San Diego Clippers | ~$5.9M | Inflation-Adjusted Transaction Comparable | Low |
+| San Diego Strike Force | ~$2.36M | Inflation + League Expansion Adjusted Comparable | Low |
+
+## Confidence and Interpretation
+
+Estimated franchise values should be interpreted as directional market estimates rather than formal financial valuations.
+
+A **Low** confidence designation is intentionally assigned to teams without credible published valuations. This reflects limitations in publicly available financial information and the difficulty of comparing organizations operating across different league structures.
+
+The estimates are designed to provide a transparent basis for market-level analysis while making the uncertainty surrounding privately held franchise values explicit.
