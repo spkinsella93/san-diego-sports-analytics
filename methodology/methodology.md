@@ -148,3 +148,71 @@ Estimated franchise values should be interpreted as directional market estimates
 A **Low** confidence designation is intentionally assigned to teams without credible published valuations. This reflects limitations in publicly available financial information and the difficulty of comparing organizations operating across different league structures.
 
 The estimates are designed to provide a transparent basis for market-level analysis while making the uncertainty surrounding privately held franchise values explicit.
+
+## Limitations and Analytical Decisions
+
+This analysis is intended to provide a transparent, directional view of San Diego's professional sports market rather than a formal financial valuation of individual franchises.
+
+Several limitations should be considered when interpreting the results.
+
+### 2026 Snapshot
+
+The dashboard is structured as a 2026 market snapshot using the most recent relevant data available for each team. Because professional sports leagues operate on different calendars and public reporting schedules, not every observation represents the exact same reporting period.
+
+Where applicable, the season or year associated with each observation is documented in the underlying dataset.
+
+### Venue Utilization
+
+Venue utilization pairs average home attendance with the capacity of the venue in which that attendance was recorded.
+
+Future venue changes are not applied retrospectively to historical attendance. For example, a team's announced move to a different venue does not affect utilization calculations until attendance from that venue is available.
+
+### San Diego Mojo
+
+The San Diego Mojo are included because the team participated in the analysis period and therefore formed part of San Diego's professional sports landscape during the 2026 snapshot.
+
+The analysis does not retrospectively remove teams based on subsequent operating changes.
+
+### Franchise Valuation
+
+Franchise values for privately held organizations are particularly difficult to estimate because detailed financial statements, transaction data, and league economics are often unavailable.
+
+Published values are therefore preferred whenever credible evidence exists. Modeled values are explicitly identified and assigned lower confidence levels.
+
+Expansion fees, asking prices, and comparable transactions are treated as market evidence rather than automatically assumed to represent equivalent franchise value.
+
+### Ticket Pricing
+
+Estimated average ticket prices are designed to create a standardized comparison across teams where reported ATP is unavailable.
+
+Actual realized ticket revenue may differ because of season-ticket discounts, promotional inventory, premium seating, dynamic pricing, resale activity, complimentary tickets, and differences in venue inventory.
+
+### Gate Receipts
+
+Estimated gate receipts represent:
+
+**Annual Home Attendance × Average Ticket Price**
+
+This metric is a standardized analytical proxy and should not be interpreted as reported team revenue.
+
+It excludes media rights, sponsorship, concessions, merchandise, parking, premium hospitality, postseason revenue, and other sources of team economics.
+
+### Cross-League Comparability
+
+The nine teams in this analysis operate across leagues with substantially different business models, media economics, venue structures, ownership models, and competitive levels.
+
+As a result, comparisons across teams are intended to illustrate the structure and scale of the San Diego sports market rather than imply that all franchises are economically equivalent.
+
+## Analytical Principles
+
+Throughout the project, the following principles guided methodological decisions:
+
+1. **Prefer reported data over estimates.**
+2. **Use observable market evidence when available.**
+3. **Clearly identify modeled values and assumptions.**
+4. **Avoid unsupported adjustments designed solely to produce intuitive results.**
+5. **Change the methodology when the model is inappropriate rather than forcing every team through the same framework.**
+6. **Match attendance and venue data to the same operating period wherever possible.**
+7. **Preserve uncertainty rather than imply false precision.**
+
+These principles were used to balance comparability across teams with the limitations inherent in analyzing privately held sports organizations.
